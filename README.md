@@ -1,4 +1,4 @@
-# Federal-State Level Predicting Veteran Suicide Rates (2005–2011)
+Federal-State Level Predicting Veteran Suicide Rates (2005–2011)
 
 Purpose: This project uses machine learning models to analyze and predict veteran suicide rates across U.S. states from 2005 to 2011.
 
